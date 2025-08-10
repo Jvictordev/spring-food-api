@@ -62,7 +62,8 @@ Exemplo de payload POST /food:
 
 {
     "name": "Banana",
-    "calories": 89
+    "quantity": 20,
+    "expirationDate": "2025-08-20T21:00:00"
 }
 
 Objetivos do Projeto:
