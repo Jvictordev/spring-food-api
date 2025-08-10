@@ -1,4 +1,4 @@
-package dev.aula.fiasco.Projeto.de.Aprendizado.rpository;
+package dev.aula.fiasco.Projeto.de.Aprendizado.repository;
 
 
 import dev.aula.fiasco.Projeto.de.Aprendizado.model.Food;

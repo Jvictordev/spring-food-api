@@ -1,7 +1,7 @@
 package dev.aula.fiasco.Projeto.de.Aprendizado.service;
 
 import dev.aula.fiasco.Projeto.de.Aprendizado.model.Food;
-import dev.aula.fiasco.Projeto.de.Aprendizado.rpository.FoodRepository;
+import dev.aula.fiasco.Projeto.de.Aprendizado.repository.FoodRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
