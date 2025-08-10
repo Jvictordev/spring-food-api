@@ -45,10 +45,10 @@ cd spring-food-api
 ```
 
 2. Configure o application.properties com suas credenciais do MySQL:
-   spring.datasource.url=jdbc:mysql://localhost:3306/seu_banco
-   spring.datasource.username=seu_usuario
-   spring.datasource.password=sua_senha
-   spring.jpa.hibernate.ddl-auto=update
+   - spring.datasource.url=jdbc:mysql://localhost:3306/seu_banco
+   - spring.datasource.username=seu_usuario
+   - spring.datasource.password=sua_senha
+   - spring.jpa.hibernate.ddl-auto=update
 3. Compile e execute:
    ./mvnw spring-boot:run
 
@@ -75,7 +75,7 @@ Reforçar a lógica de APIs RESTful e integração com banco de dados
 
 Evoluir como desenvolvedor backend com foco em Java
 
-🧠 Futuras Melhorias
+## 🧠 Futuras Melhorias
 Adicionar validações com Bean Validation
 
 Criar testes unitários com JUnit
@@ -86,5 +86,5 @@ Containerizar com Docker
 
 Habilitar CORS e segurança básica com Spring Security
 
-🧑‍💻 Autor
+## 🧑‍💻 Autor
 Feito com dedicação por João Vitor Alves. Em aprendizado contínuo e com foco no backend Java 💻
